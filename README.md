@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩‍💻 Olá! Eu sou Helena
 
-<!--
-**helena-ads/helena-ads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Braz Cubas**, apaixonada por tecnologia e pelo universo da programação. Estou construindo minha base em desenvolvimento e explorando diferentes linguagens e ferramentas.
 
-Here are some ideas to get you started:
+## 🚀 Em aprendizado
+- HTML
+- JavaScript
+- C++
+- CSS
+- Java
+- MySQL
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+Aprofundar meus conhecimentos em desenvolvimento web e banco de dados, criando projetos que me desafiem e me preparem para o mercado de tecnologia.
+
+## 📫 Onde me encontrar
+- [LinkedIn](www.linkedin.com/in/helena-passos-234)
+---
+> “Cada linha de código é um passo a mais rumo ao futuro que estou construindo.”
+
